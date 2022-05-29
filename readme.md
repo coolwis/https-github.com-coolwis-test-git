@@ -29,6 +29,12 @@ version4 추가 커밋 1
 
 - 작업 후 마스터에 병합하는 방법
 
+<<<<<<< HEAD
 # etc bran
 
 - commit1
+=======
+# rebase
+
+-commit1
+>>>>>>> 68ef29a (rebase commt1)
