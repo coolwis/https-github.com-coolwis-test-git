@@ -28,3 +28,7 @@ version4 추가 커밋 1
 # revert 용 브랜치를 생성 후 
 
 - 작업 후 마스터에 병합하는 방법
+
+# etc bran
+
+- commit1
